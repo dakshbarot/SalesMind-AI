@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# SalesMind-AI Project
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Uploaded files
+uploads/*
+
+# Generated reports
+reports/*
+
+# Generated models
+models/*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
